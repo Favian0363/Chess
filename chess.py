@@ -5,7 +5,7 @@ from cHESS.piece_module import Square
 pygame.init()
 
 screen = pygame.display.set_mode((640,640))
-pygame.display.set_caption("Chess")
+pygame.display.set_caption("Chess Game")
 
 def is_valid_move(origin_square, piece_grabbed, destination_square): # coordinates are tuples (row, column)
     if piece_grabbed.type == 'pawn':

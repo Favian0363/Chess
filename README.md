@@ -9,5 +9,5 @@ Board rendering - Done
 Piece placement - Done
 Drag and drop - Done 
 Coordinate conversions - Done
-Move validation incomplete - In Progress
-No turn logic, check, capture, or game rules yet - To do 
+Move validation - In Progress
+No turn logic, check or capture yet - To do 
